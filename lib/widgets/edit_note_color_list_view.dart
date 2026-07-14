@@ -12,7 +12,7 @@ class EditNoteColorListView extends StatefulWidget {
 }
 
 class _EditNoteColorListViewState extends State<EditNoteColorListView> {
-  int currentIndex = 0;
+  late int currentIndex ;
 
   @override
   void initState() {
