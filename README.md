@@ -40,13 +40,13 @@ Follow these steps to run the application locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Mohamed-Rajab1/notes_app.git](https://github.com/Mohamed-Rajab1/notes_app.git)
+   git clone https://github.com/Mohamed-Rajab1/notes_app.git
 
    2. Navigate into the project directory:
    ```bash
    cd notes_app
 
-   3. Get Flutter dependencises:
+   3. Get Flutter dependencies:
    ```bash
    flutter pub get
 
